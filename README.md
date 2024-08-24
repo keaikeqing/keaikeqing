@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keaikeqing&label=Profile%20views&color=0e75b6&style=flat" alt="keaikeqing" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keaikeqing" alt="keaikeqing" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keaikeqing&rank=A" alt="keaikeqing" /></a> </p>
 
 - 🔭 I’m currently working on [keaikeqing.github.io](blog.keaikeqing.me)
 

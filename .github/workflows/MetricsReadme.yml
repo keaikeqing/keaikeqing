@@ -59,10 +59,9 @@ jobs:
           plugin_screenshot: yes
           plugin_screenshot_background: yes
           plugin_screenshot_mode: image
-          plugin_screenshot_selector: body
           plugin_screenshot_title: My WebSite
-          plugin_screenshot_url: https://keaikeqing.me
-          plugin_screenshot_viewport: {  "width": 320,  "height": 320}
+          plugin_screenshot_url: https://www.keaikeqing.me
+          plugin_screenshot_selector: "#comic img"
           plugin_starlists: yes
           plugin_starlists_limit: 2
           plugin_starlists_limit_languages: 8

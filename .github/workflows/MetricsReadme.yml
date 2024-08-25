@@ -72,4 +72,5 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_sort: stars
           plugin_traffic: yes
+          output: assets/github-metrics.svg
 

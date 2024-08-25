@@ -1,0 +1,76 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics Readme
+
+on:
+  schedule: # 定时运行
+    - cron: "16 0 * * *" # 每天运行一次
+  workflow_dispatch: # 手动触发
+
+jobs:
+  github-metrics:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Setup metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }} # 使用 GitHub Token
+          # Options
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_octicon: yes
+          config_timezone: Asia/Shanghai
+          config_twemoji: yes
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          plugin_rss: yes
+          plugin_rss_limit: 4
+          plugin_rss_source: https://blog.keaikeqing.me/rss
+          plugin_screenshot: yes
+          plugin_screenshot_background: yes
+          plugin_screenshot_mode: image
+          plugin_screenshot_selector: body
+          plugin_screenshot_title: My WebSite
+          plugin_screenshot_url: https://keaikeqing.me
+          plugin_screenshot_viewport: {  "width": 320,  "height": 320}
+          plugin_starlists: yes
+          plugin_starlists_limit: 2
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 2
+          plugin_starlists_shuffle_repositories: yes
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
+          plugin_traffic: yes
+

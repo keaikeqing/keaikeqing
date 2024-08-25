@@ -1,10 +1,11 @@
-name: Waka Readme
+name: WakaTime Readme
 
 on:
   schedule:
-    # Runs at 0:00 UTC+8
-    - cron: '16 0 * * *'
+    # Runs at 0:30 UTC every day
+    - cron: "0 30 * * *"
   workflow_dispatch:
+  push: { branches: ["master", "main"] }
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -19,3 +20,5 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"

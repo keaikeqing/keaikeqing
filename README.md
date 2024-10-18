@@ -23,26 +23,26 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="25" height="25"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="25" height="25"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" height="25"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="25" height="25"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="25" height="25"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="25" height="25"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="25" height="25"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="25" height="25"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="25" height="25"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="25" height="25"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="25" height="25"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="25"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="25" height="25"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="25" height="25"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="25" height="25"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-843%20hrs%2050%20mins-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-🌆 Daytime                958 commits         ███████████░░░░░░░░░░░░░░   44.87 % 
-🌃 Evening                865 commits         ██████████░░░░░░░░░░░░░░░   40.52 % 
-🌙 Night                  211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+🌞 Morning                104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+🌆 Daytime                963 commits         ███████████░░░░░░░░░░░░░░   44.75 % 
+🌃 Evening                873 commits         ██████████░░░░░░░░░░░░░░░   40.57 % 
+🌙 Night                  212 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Tuesday                  471 commits         ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-Wednesday                263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Thursday                 257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Friday                   279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Saturday                 273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Sunday                   330 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Monday                   265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Tuesday                  471 commits         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Wednesday                265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Thursday                 259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Friday                   282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Saturday                 278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Sunday                   332 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
 ```
 
 
@@ -50,14 +50,14 @@ Sunday                   330 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 53 mins       █████████████████████░░░░   85.70 % 
-Python                   1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Markdown                 7 hrs 52 mins       █████████████████████░░░░   85.67 % 
+Python                   1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 53 mins       █████████████████████░░░░   85.70 % 
-PyCharm                  1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+VS Code                  7 hrs 52 mins       █████████████████████░░░░   85.67 % 
+PyCharm                  1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 ```
 
 
- Last Updated on 17/10/2024 02:05:08 UTC
+ Last Updated on 18/10/2024 02:06:04 UTC
 <!--END_SECTION:waka-->

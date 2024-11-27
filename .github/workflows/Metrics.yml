@@ -17,7 +17,7 @@ jobs:
       - name: Setup metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GH_TOKEN }} # 使用 GitHub Token
+          token: ${{ secrets.GITHUB_TOKEN }} # 使用 GitHub Token
           # Options
           template: classic
           base: header, activity, community, repositories

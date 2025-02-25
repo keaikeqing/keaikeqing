@@ -65,8 +65,8 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://blog.anheyu.com/atom.xml
+          plugin_rss_limit: 5
+          plugin_rss_source: https://blog.keaikeqing.cn/rss.xml
           # Star List
           # plugin_starlists: yes
           # plugin_starlists_limit: 2

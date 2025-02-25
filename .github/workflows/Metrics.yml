@@ -19,7 +19,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }} # 使用 GitHub Token
           # Options
-          template: classic
+          template: markdown
           # base: header, activity, community, repositories
           base: activity, community, repositories
           base_indepth: yes
@@ -29,10 +29,10 @@ jobs:
           repositories_batch: 100
           repositories_forks: yes
           users_ignored: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          # plugin_achievements: yes
+          # plugin_achievements_display: compact
+          # plugin_achievements_secrets: yes
+          # plugin_achievements_threshold: C
           # # 仓库活动-提交记录等
           # plugin_activity: yes
           # plugin_activity_days: 14
@@ -77,5 +77,5 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_topics_sort: stars
-          plugin_traffic: yes
+          # plugin_traffic: yes
           filename: assets/github-metrics.svg

@@ -61,7 +61,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_lines_history_limit: 1
+          plugin_lines_history_limit: 2
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_rss: yes
@@ -77,5 +77,5 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_topics_sort: stars
-          # plugin_traffic: yes
+          plugin_traffic: yes
           filename: assets/github-metrics.svg

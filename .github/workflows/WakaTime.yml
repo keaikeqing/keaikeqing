@@ -1,4 +1,4 @@
-name: WakaTime Readme
+name: Update WakaTime Readme - [Skip GitHub Action]
 
 on:
   schedule:
@@ -11,7 +11,7 @@ on:
       - dev
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update Readme with Metrics - [Skip GitHub Action]
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master

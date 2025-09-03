@@ -52,12 +52,13 @@ Sunday                   451 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   11 mins             ████████████████████████░   95.15 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/09/2025 02:17:25 UTC
+ Last Updated on 03/09/2025 02:08:05 UTC
 <!--END_SECTION:waka-->

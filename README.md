@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm keaikeqing</h1>
-<h3 align="left">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keaikeqing&label=Profile%20views&color=0e75b6&style=flat" alt="keaikeqing" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keaikeqing&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="keaikeqing" /></a> </p>
 
 - 🌱 I'm currently learning **Swarm Intelligence**
 
@@ -25,7 +22,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C408%20hrs%2046%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                364 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
@@ -33,7 +30,8 @@
 🌃 Evening                1619 commits        █████████░░░░░░░░░░░░░░░░   37.13 % 
 🌙 Night                  335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
 Monday                   554 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
@@ -45,8 +43,7 @@ Saturday                 547 commits         ███░░░░░░░░�
 Sunday                   526 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages: 
@@ -59,7 +56,6 @@ Python                   0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
 ```
-
 
  Last Updated on 14/01/2026 02:40:00 UTC
 <!--END_SECTION:waka-->

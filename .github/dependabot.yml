@@ -1,0 +1,19 @@
+version: 2
+updates:
+  # 🤖 更新 GitHub Actions 版本
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly" # 指定更新频率
+      time: "10:00" # 指定更新时间
+      timezone: "Asia/Shanghai" # 指定时区
+    open-pull-requests-limit: 10 # 限制同时打开的PR数量
+    labels: # 为Dependabot创建的PR添加标签
+      - "dependencies" # 添加一个名为"dependencies"的标签
+      - "automerge" # 添加一个名为"automerge"的标签，需要配合工作流
+    # ignore:                       # 忽略的依赖
+    # allow:                       # 允许的依赖
+    groups:
+      actions:
+        patterns:
+          - "*"

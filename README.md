@@ -20,26 +20,26 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/d3js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hexo" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hexo/0E83CD" alt="hexo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C720%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C721%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                376 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-🌆 Daytime                2303 commits        ████████████░░░░░░░░░░░░░   46.96 % 
-🌃 Evening                1846 commits        █████████░░░░░░░░░░░░░░░░   37.64 % 
-🌙 Night                  379 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+🌞 Morning                376 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+🌆 Daytime                2303 commits        ████████████░░░░░░░░░░░░░   46.93 % 
+🌃 Evening                1846 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
+🌙 Night                  382 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   681 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Tuesday                  878 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Wednesday                793 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Thursday                 699 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Friday                   662 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Saturday                 611 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Sunday                   580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Monday                   681 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Tuesday                  878 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Wednesday                793 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Thursday                 699 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Friday                   665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Saturday                 611 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Sunday                   580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 ```
 
 
@@ -47,17 +47,18 @@ Sunday                   580 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      6 hrs 56 mins       █████████████░░░░░░░░░░░░   51.61 % 
-Markdown                 4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-MATLAB                   1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Objective-C              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+TeX                      6 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.83 % 
+Markdown                 4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.10 % 
+MATLAB                   1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+C#                       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Objective-C              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 25 mins      █████████████████████░░░░   85.06 % 
-Codex CLI                2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+VS Code                  11 hrs 45 mins      ████████████████████░░░░░   81.07 % 
+Codex CLI                2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Visual Studio            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 
 
- Last Updated on 18/06/2026 05:21:28 UTC
+ Last Updated on 19/06/2026 05:36:21 UTC
 <!--END_SECTION:waka-->

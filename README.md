@@ -49,46 +49,46 @@ Sunday                   717 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-YAML                     5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-XML                      4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Python                   3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-C#                       3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Markdown                 7 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+XML                      4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+YAML                     4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Python                   2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+TeX                      2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 31 mins      ████████████████░░░░░░░░░   62.03 % 
-Codex CLI                9 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-Visual Studio            1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Antigravity Desktop      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Claude Code              1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+VS Code                  19 hrs 39 mins      ███████████████░░░░░░░░░░   61.92 % 
+Codex CLI                9 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+Antigravity Desktop      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Visual Studio            1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 57 mins (74.23%)
+⏱ AI Coding Time: 24 hrs 11 mins (76.19%)
 
-✍️ 17,232 lines written by AI, 1,431 lines written by hand (92.33% AI-written)
+✍️ 16,199 lines written by AI, 1,269 lines written by hand (92.74% AI-written)
 
-🔤 476,061,700 Input Tokens, 2,708,962 Output Tokens
+🔤 429,755,976 Input Tokens, 2,226,721 Output Tokens
 
-💵 $2425.30 Estimated AI Cost This Week
+💵 $2263.54 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 755 AI Prompts
+🧠 45 AI Sessions, 574 AI Prompts
 
-GPT                      18,596 lines        ███████████████████████░░   92.59 % 
-Fable                    758 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Gemini                   430 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Codex-Cli                211 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Opus                     89 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+GPT                      18,302 lines        ████████████████████████░   95.61 % 
+Gemini                   430 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Codex-Cli                211 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Fable                    110 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Opus                     89 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.33% of written lines came from AI
-📚 Verbose Prompter — average 2,224 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 21.97% of changed lines were hand-edited
+🤖 AI-Driven — 92.74% of written lines came from AI
+📚 Verbose Prompter — average 2,577 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 21.92% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 04:09:49 UTC
+ Last Updated on 04/08/2026 03:51:39 UTC
 <!--END_SECTION:waka-->

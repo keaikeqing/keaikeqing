@@ -20,28 +20,28 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/d3js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hexo" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hexo/0E83CD" alt="hexo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C031%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C033%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-406%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-407%20hrs%2056%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                470 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-🌆 Daytime                2975 commits        ████████████░░░░░░░░░░░░░   46.80 % 
-🌃 Evening                2372 commits        █████████░░░░░░░░░░░░░░░░   37.31 % 
+🌆 Daytime                2976 commits        ████████████░░░░░░░░░░░░░   46.78 % 
+🌃 Evening                2376 commits        █████████░░░░░░░░░░░░░░░░   37.35 % 
 🌙 Night                  540 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   906 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Tuesday                  1086 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Wednesday                1092 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Thursday                 936 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Friday                   828 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Saturday                 792 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Sunday                   717 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Monday                   906 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Tuesday                  1086 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Wednesday                1097 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Thursday                 936 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Friday                   828 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Saturday                 792 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Sunday                   717 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 ```
 
 
@@ -49,46 +49,43 @@ Sunday                   717 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-XML                      4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-YAML                     4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Python                   3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-TeX                      3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Markdown                 5 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+TeX                      3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+C#                       3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+XML                      2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Python                   2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 39 mins      ███████████████░░░░░░░░░░   60.06 % 
-Codex CLI                10 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   33.23 % 
-Antigravity Desktop      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Visual Studio            51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+VS Code                  17 hrs 16 mins      ████████████████░░░░░░░░░   65.25 % 
+Codex CLI                8 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
+Visual Studio            28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 55 mins (80.28%)
+⏱ AI Coding Time: 20 hrs 38 mins (77.98%)
 
-✍️ 16,384 lines written by AI, 919 lines written by hand (94.69% AI-written)
+✍️ 8,253 lines written by AI, 715 lines written by hand (92.03% AI-written)
 
-🔤 457,956,972 Input Tokens, 2,365,271 Output Tokens
+🔤 373,534,593 Input Tokens, 2,034,407 Output Tokens
 
-💵 $2408.12 Estimated AI Cost This Week
+💵 $1976.38 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 589 AI Prompts
+🧠 38 AI Sessions, 497 AI Prompts
 
-GPT                      18,615 lines        ████████████████████████░   96.15 % 
-Gemini                   396 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Codex-Cli                211 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Fable                    110 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Opus                     29 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+GPT                      10,440 lines        █████████████████████████   98.96 % 
+Fable                    110 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.69% of written lines came from AI
-📚 Verbose Prompter — average 2,542 characters per prompt
+🤖 AI-Driven — 92.03% of written lines came from AI
+📚 Verbose Prompter — average 2,064 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 19.62% of changed lines were hand-edited
+🚀 High AI Trust — 26.5% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/08/2026 03:48:18 UTC
+ Last Updated on 06/08/2026 03:52:57 UTC
 <!--END_SECTION:waka-->

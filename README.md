@@ -28,20 +28,41 @@
 
 **我是早鸟 🐤** 
 
-<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">🌞 早晨</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">470 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="26" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">7.33%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">🌆 白天</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">2988 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="168" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">46.60%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">🌃 傍晚</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">2409 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="135" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">37.57%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">🌙 晚上</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">545 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="31" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">8.50%</text></svg>
+```text
+🌞 早晨                     470 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.33 % 
+🌆 白天                     2988 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   46.59 % 
+🌃 傍晚                     2410 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.58 % 
+🌙 晚上                     545 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.50 % 
+```
 📅 **星期三 时的我最有干劲** 
 
-<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">星期一</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">911 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="51" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">14.21%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">星期二</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">1086 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="61" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">16.94%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">星期三</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">1100 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="62" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">17.16%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">星期四</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">968 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="54" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">15.10%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">星期五</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">830 commits</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="102" width="47" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">12.94%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#c9d1d9">星期六</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#8b949e">792 commits</text><rect x="280" y="126" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="126" width="44" height="8" rx="4" fill="#90CAF9"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#8b949e">12.35%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#c9d1d9">星期日</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#8b949e">725 commits</text><rect x="280" y="150" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="150" width="41" height="8" rx="4" fill="#90CAF9"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#8b949e">11.31%</text></svg>
+```text
+星期一                      912 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.22 % 
+星期二                      1086 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.93 % 
+星期三                      1100 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.15 % 
+星期四                      968 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.09 % 
+星期五                      830 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.94 % 
+星期六                      792 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.35 % 
+星期日                      725 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.31 % 
+```
 
 
 📊 **本周消耗时间** 
 
+```text
 💬 编程语言: 
-<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">TeX</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">10 hrs 40 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="286" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">79.46%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Markdown</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">1 hr 52 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="50" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">13.93%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">C#</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">18 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="8" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">2.31%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Python</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">12 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="6" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">1.58%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Image (svg)</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">9 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="102" width="4" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">1.14%</text></svg>
+TeX                      10 hrs 40 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   79.46 % 
+Markdown                 1 hr 52 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.93 % 
+C#                       18 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.31 % 
+Python                   12 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.58 % 
+Image (svg)              9 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.14 % 
 
 🔥 编辑器: 
-<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Codex CLI</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">6 hrs 57 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="187" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">51.86%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">VS Code</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">6 hrs 9 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="165" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">45.80%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Codex Vscode</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">15 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="7" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">1.98%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Visual Studio</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">2 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="1" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">0.37%</text></svg>
-
+Codex CLI                6 hrs 57 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   51.86 % 
+VS Code                  6 hrs 9 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   45.80 % 
+Codex Vscode             15 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.98 % 
+Visual Studio            2 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.37 % 
+```
 
 🤖 **AI Coding This Week** 
 
@@ -56,7 +77,9 @@
 
 🧠 11 AI Sessions, 205 AI Prompts
 
-<svg width="720" viewBox="0 0 720 92" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">GPT</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">3,513 lines</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="355" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">98.51%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Github-Copilot</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">46 lines</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="5" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">1.29%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Codex-Cli</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">7 lines</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="1" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">0.20%</text></svg>
+GPT                      3,513 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   98.51 % 
+Github-Copilot           46 lines            ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.29 % 
+Codex-Cli                7 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.20 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 87.22% of written lines came from AI
@@ -66,5 +89,5 @@
 ```
 
 
- Last Updated on 17/08/2026 12:44:31 UTC
+ Last Updated on 17/08/2026 12:56:58 UTC
 <!--END_SECTION:waka-->

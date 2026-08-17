@@ -18,10 +18,18 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # 自定义配置
+          LOCALE: "zh_Hans"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
+          BAR_STYLE: "svg"
+          BAR_COLOR: "#90CAF9"
+          BAR_TRACK_COLOR: "#172f45"
+          BAR_RADIUS: "4"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_UPDATED_DATE: "true"
+          SHOW_LINES_OF_CODE: "true"

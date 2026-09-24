@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2566 Commits
+                            2569 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -169,12 +169,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.192551884904" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="302.192551884904" y="0" width="46.51647777353959" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="348.70902965844357" y="0" width="44.040292205384766" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="392.7493218638284" y="0" width="31.88885680173561" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="424.638178665564" y="0" width="20.071257237255896" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="444.7094359028199" y="0" width="15.290564097180125" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.03458203702866" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="302.03458203702866" y="0" width="46.492161486219636" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="348.5267435232483" y="0" width="44.25773334135169" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="392.7844768646" y="0" width="31.87218703993484" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="424.6566639045348" y="0" width="20.060765074452217" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="444.7174289789871" y="0" width="15.282571021012977" height="8" fill="#7355dd"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -186,7 +186,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>65.69%</div>
+                                <div>65.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -197,7 +197,7 @@
                                 TeX
                             </div>
                             <small>
-                                <div>9.57%</div>
+                                <div>9.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -684,7 +684,8 @@
                                 <g transform="translate(570, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
